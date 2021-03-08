@@ -8,7 +8,7 @@
    Answer:
    Can be done in three ways:
    1.iterativly
-   2.with an additional data structure (map)
+   2.with an additional data structure (set)
    3.by sorting first and beginning from opposite ends
    of the array and working inward.
 
@@ -53,7 +53,7 @@ vector<int> twoNumberSum(vector<int> array, int targetSum) {
 
 }
 
-//Solution 3 : O(nlog(n)) time | 0(1) space 
+//Solution 3 : O(nlog(n)) time | 0(1) space
 
 
 vector<int> twoNumberSum(vector<int> array, int targetSum) {
