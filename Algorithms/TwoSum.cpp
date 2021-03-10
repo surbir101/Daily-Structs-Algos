@@ -1,7 +1,8 @@
 /*
+Two Number Sum
 
    Question:
-   Two Number Sum, if any two numbers in an array of distinct values
+   If any two numbers in an array of distinct values
    add up to the target sum, return the two numbers in any order in a
    new array. Otherwise return an empty array.
 
